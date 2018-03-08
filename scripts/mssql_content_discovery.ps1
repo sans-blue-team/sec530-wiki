@@ -9,8 +9,8 @@
 #
 # Current script is a proof of concept looking for credit card numbers
 Import-Module SqlServer
-$server = "ip_address_or_host"
-$user = "user"
+$server = "10.5.30.2"
+$user = "SA"
 $password = 'password'
 $credit_card_patterns = @{visa = '4[0-9]{12}(?:[0-9]{3})?'; mastercard = '(?:5[1-5][0-9]{2}|222[1-9]|22[3-9][0-9]|2[3-6][0-9]{2}|27[01][0-9]|2720)[0-9]{12}'; american_express = '3[47][0-9]{13}'; diners_club = '3(?:0[0-5]|[68][0-9])[0-9]{11}'; discover = '6(?:011|5[0-9]{2})[0-9]{12}'; jcb = '(?:2131|1800|35\d{3})\d{11}';}
 $databases = Invoke-Sqlcmd -ServerInstance $server -Query "select name from sys.databases WHERE name NOT IN ('master', 'tempdb', 'model', 'msdb')" -Username $user -Password $password | Select-Object -ExpandProperty name
