@@ -1,3 +1,3 @@
 <?php
-include '/labs/4.1/test.php';
+include '/labs/dtf/dtf_waf.php';
 ?>
