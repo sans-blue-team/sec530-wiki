@@ -41652,7 +41652,7 @@ restriksjonen
 restriksjonene
 restriksjoner
 restriktiv
-	NEXUS-6 N6FAB61216restriktive
+	NEXUS-7 N7FAA52318restriktive
 restriktivt
 resultantene
 resultat
