@@ -9,7 +9,7 @@ Welcome to the SANS SEC530 Wiki
 
 The goal of the SEC530 wiki is to provide knowledge to the security community. As one gets better we all get better! As such this is a free source of cyber defense information primarily around Security Information Event Management (SIEM) systems.
 
-The other goal is for (**SEC530: SIEM with Tactical Analytics**)[https://www.sans.org/course/siem-with-tactical-analytics] students and is to increase the **in-class**, and, most importantly, **after-class** value of the course material. It is also designed as a method to give back to the security community by providing free information. This wiki is, and likely always will be, very much a work in progress.
+The other goal is for (**SEC530: Defensible Security Architecture**)[https://www.sans.org/course/defensible-security-architecture] students and is to increase the **in-class**, and, most importantly, **after-class** value of the course material. It is also designed as a method to give back to the security community by providing free information. This wiki is, and likely always will be, very much a work in progress.
 
 Contained in the wiki, you will find:
 
@@ -70,16 +70,5 @@ Course/Lab/Wiki Bugs or Suggestions
 ---
 
 Please let us know if you find any bugs in the courseware/labs/wiki we need to squash. Also, reach out if you have suggestions to improve the course (e.g. content/labs/tools that should be added, removed, or updated). The easiest way to submit these improvements is by sending an email to **<justin@hasecuritysolutions.com>**
-
----
-
-Alumni Mailing List
-----------
-
----
-
-Join the 530 alumni mailing list:
-
-[http://SEC530.com/530group](http://SEC530.com/530group)
 
 ---
