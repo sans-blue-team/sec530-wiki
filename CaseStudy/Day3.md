@@ -24,8 +24,8 @@ This diagram shows the addition of a SSL VPN with multifactor authentication req
 
 Addition of a jump box in a separate segment.
 
-![Tyrell Corp. network](Tyrell-3.5.png)
+![Tyrell Corp. network](Tyrell-3.6.png)
 
 This diagram shows the addition of DDOS protection to the Tyrell Corporation architecture. In this example, requests to inbound services such as web services in the DMZ are routed through a DDOS scrubbing cloud service.
 
-![Tyrell Corp. network](Tyrell-3.6.png)
+![Tyrell Corp. network](Tyrell-3.7.png)
