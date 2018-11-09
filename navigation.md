@@ -39,6 +39,7 @@ SEC455
 -	[Eric Conrad](/Instructors/EricConrad.md)
 -	#### Instructors
 -	[Seth Misenar](/Instructors/SethMisenar.md)
+-	[Ismael Valenzuela](/Instructors/IsmaelValenzuela.md)
 
 [Updates]()
 
