@@ -1,4 +1,4 @@
-Tyrell Corp. Case Study 
+Tyrell Corporation Case Study 
 ========
 
 Day 1
