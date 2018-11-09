@@ -1,3 +1,9 @@
+Tyrell Corporation Case Study 
+========
+
+Day 3
+---------
+
 This diagram shows the addition of an explicit web proxy to the Tyrell Corporation architecture. In this example, web requests going outbound to the internet should come from the explicit web proxy.
 
 ![Tyrell Corp. network](Tyrell-3.0.png)
