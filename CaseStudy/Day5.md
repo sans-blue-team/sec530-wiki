@@ -1,12 +1,15 @@
-As discussed, we are going to use Tyrell Corp. to illustrate some of the issues and solutions proposed throughout this class, and to frame some of the discussions we will have during the week. This is what Tyrell’s network looks like today. 
+Tyrell Corporation Case Study 
+========
 
-Like many organizations they have very little segmentation in place, with only 3 zones defined: INTERNET, DMZ and LAN. 
-Notice how the internal servers and the corporate LAN are effectively on the same segment, only connected to 2 different switches. The internal servers include domain controllers and databases that may contain confidential information and that may be critical to Tyrell’s business. 
+Day 5
+---------
 
-Can anything go wrong with this approach? 
+This diagram represents the Tyrell Corporation's design. Internal to the organization there are servers and workstations. External to the organization are laptops and mobile devices that connect via a SSL VPN to access internal resources.
 
-![Tyrell 1-1](Tyrell-1.1.png)
+![Tyrell Corp. network](Tyrell-5.1.png)
 
-This is Tyrell Corp. network after applying layer 2 mitigations at the end of Day 1
+![Tyrell Corp. network](Tyrell-5.2.png)
 
-![Tyrell 1-1](Tyrell-1.2.png)
+This diagram represents the Tyrell Corporation's design. In it, a SIEM platform has been added and is hanging off the firewall as a dedicated zone. The SIEM platform will be utilized to gather data from endpoints, network devices, and security controls. Once the data is centralized, it will be enriched to add automatic context and then will be reviewed to find unauthorized activity and anomalies.
+
+![Tyrell Corp. network](Tyrell-5.3.png)
