@@ -1,3 +1,9 @@
+Tyrell Corp. Case Study 
+========
+
+Day 1
+---------
+
 As discussed, we are going to use Tyrell Corp. to illustrate some of the issues and solutions proposed throughout this class, and to frame some of the discussions we will have during the week. This is what Tyrell’s network looks like today. 
 
 Like many organizations they have very little segmentation in place, with only 3 zones defined: INTERNET, DMZ and LAN. 
