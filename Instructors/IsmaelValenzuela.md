@@ -20,9 +20,9 @@ Contact
 Affiliations
 -------
 [SANS Institute](https://www.sans.org/instructors/ismael-valenzuela) | **Certified SANS Instructor**
-[McAfee] (https://securingtomorrow.mcafee.com/author/ismael-valenzuela/) | **Principal Engineer**
-[TTP0] (https://github.com/TTP0/info) **Co-founder**
-[rastrea2r project] (https://github.com/rastrea2r) **Creator**
+[McAfee](https://securingtomorrow.mcafee.com/author/ismael-valenzuela/) | **Principal Engineer**
+[TTP0](https://github.com/TTP0/info) **Co-founder**
+[rastrea2r project](https://github.com/rastrea2r) **Creator**
 
 Bio
 -----------
