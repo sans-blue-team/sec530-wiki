@@ -46,3 +46,10 @@ SEC455
 - [Submit Bug/Suggestion](/Updates/Bugs.md)
 - [Course Suggestion](/Updates/Suggest.md)
 
+[Case Study]()
+
+- [Day 1](/CaseStudy/Day1.md)
+- [Day 2](/CaseStudy/Day2.md)
+- [Day 3](/CaseStudy/Day3.md)
+- [Day 4](/CaseStudy/Day4.md)
+- [Day 5](/CaseStudy/Day5.md)
