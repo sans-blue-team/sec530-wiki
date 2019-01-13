@@ -44,9 +44,11 @@ SEC530
 -	#### Authors
 -	[Justin Henderson](/Instructors/JustinHenderson.md)
 -	[Eric Conrad](/Instructors/EricConrad.md)
+-	[Ismael Valenzuela](/Instructors/IsmaelValenzuela.md)
 -	#### Instructors
 -	[Seth Misenar](/Instructors/SethMisenar.md)
--	[Ismael Valenzuela](/Instructors/IsmaelValenzuela.md)
+-	[Josh Johnson](/Instructors/JoshJohnson.md)
+-	[Greg Scheidel](/Instructors/GregScheidel.md)
 
 [Updates]()
 
