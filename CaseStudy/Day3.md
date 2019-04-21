@@ -4,10 +4,6 @@ Tyrell Corporation Case Study
 Day 3
 ---------
 
-This diagram shows the addition of an explicit web proxy to the Tyrell Corporation architecture. In this example, web requests going outbound to the internet should come from the explicit web proxy.
-
-![Tyrell Corp. network](Tyrell-3.0.png)
-
 This diagram shows an adjustment in that the firewall is now a Next-Generation Firewall. In this example, the edge firewall is a NGFW and so is the internal firewall.
 
 ![Tyrell Corp. network](Tyrell-3.1.png)
