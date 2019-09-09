@@ -9,6 +9,10 @@ Contact
 
 **LinkedIn** | [Greg Scheidel](https://www.linkedin.com/in/greg-scheidel-a1030528/)
 
+Affiliations
+-------
+[SANS Institute](https://www.sans.org/instructors/greg-scheidel) | **SANS Instructor**
+[Iron Vine Security](https://www.ivsec.com) | **Chief Cybersecurity Officer**
 
 Bio
 -----------
