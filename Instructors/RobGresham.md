@@ -9,6 +9,12 @@ Contact
 
 **LinkedIn** | [Rob Gresham](http://www.linkedin.com/in/rwgresham/)
 
+Affiliations
+-------
+[SANS Institute](https://www3.sans.org/instructors/rob-gresham) | **SANS Instructor**
+[Splunk]| **Splunk**
+[TTP0 Open SOC project](https://github.com/TTP0/info) | **Co-founder**
+
 Bio
 -----------
  
