@@ -22,6 +22,6 @@ Rob has over 15 years of experience in building and providing security operation
 
 Below are some of the videos and presentations Rob has done:
 
--[Hacking your SOEL at SANS SOC Summit](https://www.youtube.com/watch?v=_mnxZ1iSUGg)
+-[Hacking your SOEL at SANS SOC Summit, SOC Automation & Orchestration](https://www.youtube.com/watch?v=_mnxZ1iSUGg)
 
 -[Threat Intelligence: Not a Wild Goose Chase](https://www.brighttalk.com/webcast/13713/231119/threat-)
