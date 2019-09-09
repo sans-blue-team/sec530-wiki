@@ -12,7 +12,7 @@ Contact
 Affiliations
 -------
 [SANS Institute](https://www3.sans.org/instructors/rob-gresham) | **SANS Instructor**
-[Splunk](https://www.splunk.com/)| **Splunk**
+[Splunk](https://www.splunk.com/) | **Splunk**
 [TTP0 Open SOC project](https://github.com/TTP0/info) | **Co-founder**
 
 Bio
