@@ -49,6 +49,8 @@ SEC530
 -	[Seth Misenar](/Instructors/SethMisenar.md)
 -	[Josh Johnson](/Instructors/JoshJohnson.md)
 -	[Greg Scheidel](/Instructors/GregScheidel.md)
+-	[Ryan Nicholson](/Instructors/RyanNicholson.md)
+-	[Rob Gresham](/Instructors/RobGresham.md)
 
 [Updates]()
 
