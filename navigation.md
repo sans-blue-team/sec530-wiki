@@ -36,7 +36,6 @@ SEC530
 - [freq_server.py](/Tools/freq_server.py.md)
 <!-- Log Agent - beats -->
 - [NXLog](/Tools/NXLog.md)
-- [kopf](/Tools/kopf.md)
 <!-- Suricata -->
 
 [Instructors]()
