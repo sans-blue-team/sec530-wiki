@@ -27,7 +27,7 @@ Welcome to the SANS SEC530 Wiki
 
 
 ![Cyber Defense](CyberDefense_logo.jpg)
-### **`SEC530 Portal Version: 2.2`**
+### **`SEC530 Portal Version: 2.3`**
 
 ---
 
