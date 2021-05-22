@@ -12,7 +12,7 @@ Contact
 Affiliations
 -------
 [SANS Institute](https://www.sans.org/instructors/greg-scheidel) | **SANS Instructor**
-[Iron Vine Security](https://www.ivsec.com) | **Chief Cybersecurity Officer**
+[Iron Vine Security](https://www.ironvine.com) | **Chief Cybersecurity Officer**
 
 Bio
 -----------
