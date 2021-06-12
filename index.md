@@ -61,7 +61,7 @@ To manually update the wiki content run the command below.
 $ sudo pwsh -file /scripts/wiki_update.ps1
 ```
 
-<button onclick="copyToClipboard('sudo pwsh  -file /scripts/wiki_update.ps1')" style="background-image: url(/clipboard.svg); background-repeat: no-repat; height: 40px; width: 40px;"> 
+<button onclick="copyToClipboard('sudo pwsh -file /scripts/wiki_update.ps1')" style="background-image: url(/clipboard.svg); background-repeat: no-repat; height: 40px; width: 40px;"> 
 </button>
 
 <p> </p>
